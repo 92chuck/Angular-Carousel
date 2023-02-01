@@ -2,4 +2,6 @@
 
 Reusable carousel display component
 
-: Indicators, Auto slide, Interval, 
+: Indicators, Auto slide, Interval, and Controls options
+
+
